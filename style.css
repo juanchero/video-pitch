@@ -1,0 +1,14 @@
+body{
+    background-color: gainsboro;/*background-color es para color de fondo*/
+}
+h1{
+    background-color: aqua;
+color: black;/*color es para aplicar color al texto*/
+}
+h2{
+    font: size 25px;
+background-color: orange;
+color: darkgreen;
+}
+i{background-color: gray;
+color: black;}
